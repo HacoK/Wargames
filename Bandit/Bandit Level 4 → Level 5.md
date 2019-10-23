@@ -17,13 +17,17 @@ pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 cd inhere
 ls
 # -file00  -file01  -file02  -file03  -file04  -file05  -file06  -file07  -file08  -file09
-cat ./-file00
-# probably contains system trap command, can't read that file
-cat -- -file0{1..9}
-# U"7wHêQ(# Tv(ִA*
-2JŞ؇_y7.Au#w$N?c-Db3==W htZ!{U+pm;:D^@ glQ@%@ZP*E1V̫*koReBOKuIDDepwhWk7jZC0RTdopnAYKh
-FPn'UM/uXS
-muzхN{Yd4]3 9(
-### The password is koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+cat -- -file0{0..9}
+###
+▒▒▒▒▒▒~%        C[▒걱>▒▒| ▒▒▒▒U"7▒w▒▒▒H▒▒ê▒Q▒▒(▒▒▒#▒▒▒▒T▒v▒▒(▒ִ▒▒▒▒▒A*▒
+2J▒Ş؇_▒y7▒.A▒▒u▒▒#▒▒▒w$N?c▒-▒▒Db3▒▒=▒▒=<▒W▒▒▒▒▒ht▒Z▒▒!▒▒{▒U
+                                                           ▒+▒▒pm▒▒▒;▒▒:D▒▒^▒▒@▒gl▒Q▒▒@▒%@▒▒▒ZP*E▒▒1▒V▒▒▒̫*▒▒▒▒koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+FPn▒
+    '▒U▒▒▒M▒▒/u
+XS
+▒mu▒z▒▒▒хN▒{▒▒Y▒d4▒▒▒]3▒▒▒▒▒9(▒
+Q▒▒▒bandit4@
+###
+!!! The password is koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 
